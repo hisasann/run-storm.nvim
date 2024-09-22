@@ -1,1 +1,1 @@
-# run-storm
+# run-storm.nvim
