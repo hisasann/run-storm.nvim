@@ -1,6 +1,6 @@
 # run-storm.nvim
 
-nvim plugin to run shell files in a specific directory.
+nvim plugin to run shell files in a specific directory for JetBrain application.
 
 ## How to use
 
